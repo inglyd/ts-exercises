@@ -1,0 +1,4 @@
+1- instalar o typescript npm i -g typescript 
+2- instalar o ts-node npm i -g ts-node 
+3- iniciar o package.json no projeto npm init -t 
+4- iniciar o typescript no projeto tsc --init
